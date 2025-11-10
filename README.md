@@ -59,9 +59,26 @@ jupyter notebook
 ```bash
 streamlit run app/main.py
 ```
-
 ---
+## Dashboard Preview
 
+### Main Dashboard Interface
+![Dashboard Main](dashboard_screenshots/dashboard_main.png)
+
+*Interactive dashboard showing solar data comparison across Benin, Sierra Leone, and Togo*
+
+### Country Comparison
+![Country Comparison](dashboard_screenshots/country_boxplot_comparison.png)
+
+*Boxplot visualization of GHI distribution across selected countries*
+
+### Time Series Analysis
+![Solar Ranking](dashboard_screenshots/time_series_analysis.png)
+
+### Statistical Summary
+![Statistics](dashboard_screenshots/dashboard_stats.png)
+
+*Detailed statistics including mean, median, and standard deviation*
 ## 🧰 Technical Stack  
 
 - **Programming:** Python 3.11+  
